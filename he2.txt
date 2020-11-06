@@ -1,2 +1,4 @@
 this is a new file
-i have do something 
+i have do something
+i have do something 2
+i have do somethind 3
